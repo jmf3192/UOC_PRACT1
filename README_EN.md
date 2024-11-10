@@ -15,7 +15,7 @@ This project performs web scraping on IMDb's Top 250 movies and saves the inform
 
 ```plaintext
 IMDb-Top-250-Scraper
-├── README_ES.md         # Spanish translation
+├── README.md            # Spanish translation
 ├── README_EN.md         # This file
 ├── requirements.txt     # Dependencies required to run the project
 ├── /source              # Python code for scraping
