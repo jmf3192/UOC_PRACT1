@@ -12,6 +12,7 @@ Este proyecto realiza un web scraping de las 250 mejores películas según IMDb 
 
 ## Estructura de los directorios ##
 
+```plaintext
 IMDb-Top-250-Scraper
 ├── README_ES.md         # Este archivo
 ├── README_EN.md		     # Traducción al inglés
@@ -34,4 +35,5 @@ Este archivo contiene las librerías necesarias para poder ejecutar el código s
 - random, time, json: Para añadir intervalos aleatorios y manejar los datos JSON de IMDb.
 
 Para instalar todas las librerias se debe ejecutar el siguiente comando:
+	```bash
 	pip install -r requirements.txt
