@@ -13,7 +13,7 @@ Este proyecto realiza un web scraping de las 250 mejores películas según IMDb 
 
 ```plaintext
 IMDb-Top-250-Scraper
-├── README_ES.md         # Este archivo
+├── README.md            # Este archivo
 ├── README_EN.md	 # Traducción al inglés
 ├── requirements.txt     # Dependencias necesarias para ejecutar el proyecto
 ├── /source              # Código Python para el scraping
