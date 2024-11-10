@@ -24,6 +24,7 @@ IMDb-Top-250-Scraper
 │   └── PRAC1.rmd        # Script in R Markdown format (R)
 └── /dataset             # Folder containing the generated dataset
     └── films.csv        # Dataset with the scraped data
+```
 
 ## Running requirements.txt ##
 
