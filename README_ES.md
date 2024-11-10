@@ -22,6 +22,7 @@ IMDb-Top-250-Scraper
 │   └── PRAC1.rmd   		 # Script en formato rmd (R) 
 └── /dataset             # Carpeta que contiene el dataset generado
     └── films.csv        # Dataset con los datos obtenidos
+```
 		
 ## Ejecución de requirements.txt ##
 
