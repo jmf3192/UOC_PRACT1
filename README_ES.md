@@ -14,12 +14,12 @@ Este proyecto realiza un web scraping de las 250 mejores películas según IMDb 
 ```plaintext
 IMDb-Top-250-Scraper
 ├── README_ES.md         # Este archivo
-├── README_EN.md		     # Traducción al inglés
+├── README_EN.md	 # Traducción al inglés
 ├── requirements.txt     # Dependencias necesarias para ejecutar el proyecto
 ├── /source              # Código Python para el scraping
-│   └── PRAC1.py   		   # Script principal de scraping. En formato python.
-│   └── PRAC1.ipynb   	 # Script en formato jupyter notebook
-│   └── PRAC1.rmd   		 # Script en formato rmd (R) 
+│   └── PRAC1.py   	 # Script principal en formato Python.
+│   └── PRAC1.ipynb   	 # Script en formato Jupyter Notebook
+│   └── PRAC1.rmd   	 # Script en formato R Markdown (R) 
 └── /dataset             # Carpeta que contiene el dataset generado
     └── films.csv        # Dataset con los datos obtenidos
 ```
