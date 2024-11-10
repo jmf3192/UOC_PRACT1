@@ -22,6 +22,7 @@ IMDb-Top-250-Scraper
 │   └── PRAC1.rmd   	 # Script en formato R Markdown (R) 
 └── /dataset             # Carpeta que contiene el dataset generado
     └── films.csv        # Dataset con los datos obtenidos
+    └── zenodo_link.md   # Link al dataset en Zenodo
 ```
 		
 ## Ejecución de requirements.txt ##
